@@ -4,3 +4,9 @@ for (var i = 0; i < num.length; i++) {
     console.log(num[i]);
     }  
 }
+
+for (var i = 0; i < num.length; i++) {
+    if (num[i] < 60) {
+        console.log(num[i]);
+    }
+}
